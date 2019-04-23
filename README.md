@@ -1,5 +1,6 @@
-![Shopgate](https://mms.businesswire.com/media/20190205005681/en/704125/23/shopgate_horizontal_logo_rgb.jpg)
+# Frontend APP Magento 2
+## Magento 2 integration with shopgate  
 
-#  Magento 2 integration with shopgate
+![Shopgate](https://d2ytbdjodkazy3.cloudfront.net/wp-content/uploads/2016/07/LP_Magentodiagram.jpg)
 
 That's all for now.
